@@ -7,7 +7,6 @@ public class Main {
         System.out.println("1. Dziesietny");
         System.out.println("2. Binarny");
         System.out.println("3. Osemkowy");
-        System.out.println("4. Heksadecymalny");
         int wybor = input.nextInt();
         if(wybor==1){
             WymianaDecy.main(args);
