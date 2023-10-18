@@ -1,5 +1,3 @@
-import java.text.MessageFormat;
-
 public class Decynaheksa {
     public static void liczenieheksa(int decy){
         char ch;
