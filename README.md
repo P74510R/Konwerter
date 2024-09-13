@@ -1,3 +1,2 @@
-# Konwerter
-Jest to prosty konwerter do zamian systemow liczbowych zapisany w Javie
-(dodatkowo taki sam skrypt ale juz zapisany w pythonie)
+# Converter
+Simple converter created for easy way of exchanging different numeral systems written in Java( later I added version in Python).
